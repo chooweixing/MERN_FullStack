@@ -1,0 +1,4 @@
+{
+  "DB_url" : "mongodb+srv://weixing123:weixing123@merndb-kqxnx.mongodb.net/test?retryWrites=true",
+  "jwtSecret" : "mern_development"
+}
