@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "nodemon": "^1.19.0"
   }
 }
